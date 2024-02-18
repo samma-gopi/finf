@@ -2,8 +2,8 @@
 
 ## What is Finance Forge?
 
-[FinanceForge] is a finance web-application developed by [sammagopi]. FinanceForge has many different types of finance calculators. All the available calculators are listed below in this README.md file.
-
+[FinanceForge] is a finance web-application developed by [sammagopi]. FinanceForge has many different types of finance calculators. All the available calculators are listed below:
+---
 The users of FinanceForge can select a currency in which the monetary results of the calculators are printed. The selected currency will be saved either in local storage or in the authenticated users preferences.
 
 In Addition, authenticated users can: 
@@ -14,45 +14,60 @@ In Addition, authenticated users can:
 - delete previously saved calculations
 
 FinanceForge is created using the the MERN stack.
+---
+##Register page
+---
+![image](https://github.com/samma-gopi/FinanceForge/assets/91776389/19e6e3d6-4337-48f7-80a2-d28b217ca035)
+
+##login page
+
+![image](https://github.com/samma-gopi/FinanceForge/assets/91776389/df4c63ca-5262-4dfe-ba34-84b2cbffe2f7)
+
+
 ##Home Page
+
 ![image](https://github.com/samma-gopi/FinanceForge/assets/91776389/69b39af3-6691-4bd6-bbe8-a36f6d9a48d6)
 
 ## Calculators of FinanceForge
+![image](https://github.com/samma-gopi/FinanceForge/assets/91776389/0f9d4f14-ab1e-4867-830d-e18634eeb258)
+
 
 ### [Compound Interest Calculator]
-
-Calculates the compound interest of your investments and can show you how long your investments will last.
-
-The compound interest is calculated from various inputs such as starting balance, interest rate, duration, contribution and more. The calculated interest data can be viewed in both numerical and visual form.
-
 ---
-
-### [Annualized Return Calculator]
-
-Calculates the annualized return (CAGR) and the the total percent return of your investment.
-
+Calculates the compound interest of your investments and can show you how long your investments will last. The calculated interest data can be viewed in both numerical and visual form.
+![image](https://github.com/samma-gopi/FinanceForge/assets/91776389/ddb0a1c2-c71a-47da-9389-0b9d45e034f1)
 ---
-
-### [Present Value Calculator]
-
-Calculates the present value of your future investment with a specified discount rate.
-
----
-
-### [Investment Time Calculator]
-
-Calculates the amount of time needed to grow an investment to a certain future value given an annual interest rate.
-
----
-
-### [Break Even Point Calculator]
-
-Calculates the point at which total cost and total revenue are equal, meaning there is no loss or gain for your business.
-
----
-
 ### [Markup Calculator]
-
+---
 Calculates the difference between the cost and the selling price of your product.
+![image](https://github.com/samma-gopi/FinanceForge/assets/91776389/8dfe77a4-79af-4307-9204-1d497747825b)
 
 ---
+### [Annualized Return Calculator]
+---
+Calculates the annualized return (CAGR) and the the total percent return of your investment.
+![image](https://github.com/samma-gopi/FinanceForge/assets/91776389/faf5aecd-88bc-4d4d-9f6d-245910b11007)
+---
+### [Pesent Value Calculator]
+---
+Calculates the present value of your future investment with a specified discount rate.
+![image](https://github.com/samma-gopi/FinanceForge/assets/91776389/31eaac66-01fe-4341-8106-11ee2b5afc1a)
+---
+### [Investement Time Calculator]
+---
+Calculates the amount of time needed to grow an investment to a certain future value given an annual interest rate.
+![image](https://github.com/samma-gopi/FinanceForge/assets/91776389/9a847b7e-d6e7-475a-9960-a4c61a9cfe01)
+
+###[Featured]
+---
+![image](https://github.com/samma-gopi/FinanceForge/assets/91776389/a8971c63-f84a-4134-b4d6-26989dba4a4a)
+
+registered users can view,save,download the charts
+![image](https://github.com/samma-gopi/FinanceForge/assets/91776389/ff334b8f-1b7f-4140-9e94-280ad8cb3bb1)
+
+---
+Thank you:)
+
+
+
+
