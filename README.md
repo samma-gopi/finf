@@ -14,6 +14,8 @@ In Addition, authenticated users can:
 - delete previously saved calculations
 
 FinanceForge is created using the the MERN stack.
+##Home Page
+![image](https://github.com/samma-gopi/FinanceForge/assets/91776389/69b39af3-6691-4bd6-bbe8-a36f6d9a48d6)
 
 ## Calculators of FinanceForge
 
