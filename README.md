@@ -40,7 +40,8 @@ Calculates the compound interest of your investments and can show you how long y
 ### [Markup Calculator]
 ---
 Calculates the difference between the cost and the selling price of your product.
-![image](https://github.com/samma-gopi/FinanceForge/assets/91776389/8dfe77a4-79af-4307-9204-1d497747825b)
+![image](https://github.com/samma-gopi/FinanceForge/assets/91776389/c610b6e1-00d3-4acc-90a0-506027c18fa7)
+
 
 ---
 ### [Annualized Return Calculator]
